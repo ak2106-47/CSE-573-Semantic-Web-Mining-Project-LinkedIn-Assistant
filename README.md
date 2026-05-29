@@ -4,7 +4,6 @@
 
 An explainable job-search copilot that ingests a resume, stages curated roles from the provided Excel dataset, scores every requirement with Rasch/Guttman math, and chats about apply/network/upskill tactics through a modern multi-step UI.
 
-A massive shoutout to my teammmates Sayantika Paul, Pratiksha Wadibhasme, Sanjana Soma and Shivam Sonawane. This project wouldn't have been possible without their efforts and collaboration. 
 
 ## Demo
 
@@ -175,6 +174,10 @@ See detailed metrics, method comparison tables, system performance, and explaina
 ## Dataset
 
 - Kaggle LinkedIn Job Posts Insights : [linkedin_job_posts_insights](./linkedin_job_posts_insights.xlsx).
+
+## Acknowledgement
+
+- A massive shoutout to my teammmates Sayantika Paul, Pratiksha Wadibhasme, Sanjana Soma and Shivam Sonawane. This project wouldn't have been possible without their efforts and collaboration. 
 
 ## License
 
